@@ -18,4 +18,4 @@
 # 微信
 
 <h3 align="center">扫码备注</h3>
-<p align="center"><img src="https://raw.githubusercontent.com/ethanyep/ethanyep/master/static/images/wx.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iszmxw/iszmxw/master/static/images/wx.png"></p>
